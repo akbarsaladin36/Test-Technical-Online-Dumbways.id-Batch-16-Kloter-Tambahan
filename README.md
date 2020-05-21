@@ -8,6 +8,8 @@ Untuk soal no. 8A menggunakan file SQL yang diberi nama dumbways_course.sql.
 
 Untuk soal no. 7 dan 8B tidak dapat dikerjakan karena waktu yang sudah habis.
 
-Screenshoot mengenai jawaban soal bisa dibuka di folder screenshoot.
+Ditambah dengan screenshoot jawaban soal dari no. 1 s/d no. 6.
+
+Terimakasih atas kesempatannya yang diberikan semoga sehat selalu.
 
 
