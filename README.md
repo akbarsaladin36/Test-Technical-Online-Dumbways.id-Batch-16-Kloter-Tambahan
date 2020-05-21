@@ -6,4 +6,8 @@ Untuk soal no. 1 s/d 6 menggunakan bahasa pemograman javascript.
 
 Untuk soal no. 8A menggunakan file SQL yang diberi nama dumbways_course.sql.
 
-Untuk soal no. 8B menggunakan PHP.
+Untuk soal no. 7 dan 8B tidak dapat dikerjakan karena waktu yang sudah habis.
+
+Screenshoot mengenai jawaban soal bisa dibuka di folder screenshoot.
+
+
